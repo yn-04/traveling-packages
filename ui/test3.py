@@ -3,3 +3,6 @@ def sum(a, b):
 
 def sigmoid(z):
     return np.exp(-z)
+
+def linear_comb(x, w, b):
+    return w * x + b
