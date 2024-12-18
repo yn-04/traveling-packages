@@ -1,5 +1,5 @@
 def test2():
     print("test2")
 
-def sum(a, b):
+def summation(a, b):
     return a + b
