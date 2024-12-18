@@ -3,3 +3,6 @@ def test2():
 
 def summation(a, b):
     return a + b
+
+def multiply(a, b):
+    return a * b
