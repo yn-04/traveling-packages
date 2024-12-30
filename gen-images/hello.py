@@ -10,6 +10,8 @@ client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY", "key here"))
 image_dir_name = "images"
 image_dir = os.path.join(os.curdir, image_dir_name)
 
+if not os.path.isdir(image_dir):
+    os.mkdir(image_dir)
 # create an image
 
 # set the prompt
