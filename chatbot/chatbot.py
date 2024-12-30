@@ -13,8 +13,8 @@ models = {
     "llama3-70b-8192": "llama3-70b-8192",
     "llama-3.3-70b-specdec": "llama-3.3-70b-specdec",
     "llama-3.3-70b-versatile": "llama-3.3-70b-versatile",
-    "llama-3.2-90b-vision-preview": "llama-3.2-90b-vision-preview",
-    "llama-3.1-70b-versatile": "llama-3.1-70b-versatile"
+    "llama-3.1-70b-versatile": "llama-3.1-70b-versatile",
+    "llama-3.2-90b-vision-preview": "llama-3.2-90b-vision-preview"
 }
 
 # api key
@@ -27,7 +27,7 @@ chat_completion = groq_client.chat.completions.create(
     messages=[
         {
             "role": "user",
-            "content": "แนะนำสถานที่ท่องเที่ยวจังหวัดขอนแก่นในประเทศไทย เป็นภาษาไทย โดยจัดแผนการท่องเที่ยวในจังหวัดขอนแก่นหลาย ๆ ตัวเลือกและมีความน่าสน", # จะให้ agent ตอบแบบไหนอยู่ที่การตั้ง instruction ตรงนี้
+            "content": "แนะนำสถานที่ท่องเที่ยวจังหวัดขอนแก่นในประเทศไทย เป็นภาษาไทย โดยจัดแผนการท่องเที่ยวในจังหวัดขอนแก่นหลาย ๆ ตัวเลือก และข้อความมีความดึงดูดให้น่าอ่านน่าสนใจ", # จะให้ agent ตอบแบบไหนอยู่ที่การตั้ง instruction ตรงนี้
         }
     ],
     model=models['gemma2-9b-it'],
