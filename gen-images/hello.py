@@ -3,9 +3,12 @@ from openai import OpenAI  # OpenAI Python library to make API calls
 import requests  # used to download images
 import os  # used to access filepaths
 from PIL import Image  # used to print and edit images
+from dotenv import load_dotenv
 
+
+load_dotenv()
 # initialize OpenAI client
-client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY", "key here"))
+client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
 
 image_dir_name = "images"
 image_dir = os.path.join(os.curdir, image_dir_name)
@@ -15,7 +18,7 @@ if not os.path.isdir(image_dir):
 # create an image
 
 # set the prompt
-prompt = "ลาบอีสาน"
+prompt = "อุทยานแห่งชาติภูสวนทราย จังหวัดเลย ประเทศไทย"
 
 # call the OpenAI API
 generation_response = client.images.generate(
