@@ -33,4 +33,5 @@ chat_completion = groq_client.chat.completions.create(
     model=models['gemma2-9b-it'],
 )
 
+# output
 print(chat_completion.choices[0].message.content)
