@@ -4,6 +4,7 @@ import os  # used to access filepaths
 from PIL import Image  # used to print and edit images
 from dotenv import load_dotenv
 from groq import Groq
+load_dotenv()  # โหลดตัวแปรจาก .env
 
 # avaliable models
 models = {
