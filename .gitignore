@@ -1,3 +1,4 @@
 venv
 .venv
 gen-images/.env
+gen-images/images/generated_image.png
