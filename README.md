@@ -6,8 +6,42 @@ A web application for planning travel packages and creating image to promoting t
 
 ## Contributors
 
-<!-- readme: collaborators -start -->
-<!-- readme: collaborators -end -->
+<!-- readme: samslow,alandefreitas,atharwa-24,EmilStenstrom -start -->
+<table>
+	<tbody>
+		<tr>
+            <td align="center">
+                <a href="https://github.com/samslow">
+                    <img src="https://avatars1.githubusercontent.com/u/26738367?v=4" width="100;" alt="samslow"/>
+                    <br />
+                    <sub><b>Hyeonseok Samuel Seo</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/alandefreitas">
+                    <img src="https://avatars0.githubusercontent.com/u/5369819?v=4" width="100;" alt="alandefreitas"/>
+                    <br />
+                    <sub><b>Alan De Freitas</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/atharwa-24">
+                    <img src="https://avatars0.githubusercontent.com/u/54115798?v=4" width="100;" alt="atharwa-24"/>
+                    <br />
+                    <sub><b>Atharwa_24</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/emilstenstrom">
+                    <img src="https://avatars.githubusercontent.com/u/224130?v=4" width="100;" alt="emilstenstrom"/>
+                    <br />
+                    <sub><b>Emil Stenström</b></sub>
+                </a>
+            </td>
+		</tr>
+	<tbody>
+</table>
+<!-- readme: samslow,alandefreitas,atharwa-24,EmilStenstrom -end -->
 
 ## Installation
 
