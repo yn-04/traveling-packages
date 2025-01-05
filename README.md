@@ -6,11 +6,6 @@ A web application for planning travel packages and creating image to promoting t
 
 ## Contributors
 
-<!-- readme: <username1>,collaborators,<username2>,contributors,<username3>/- -start -->
-
-# <!-- readme: <username1>,collaborators,<username3>,contributors,<username3>/- -end -->
-
-<!-- readme: collaborators,contributors -start -->
 <table>
 	<tbody>
 		<tr>
@@ -61,7 +56,6 @@ A web application for planning travel packages and creating image to promoting t
 		</tr>
 	<tbody>
 </table>
-<!-- readme: collaborators,contributors -end -->
 
 ## Installation
 
