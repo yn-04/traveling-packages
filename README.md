@@ -6,8 +6,6 @@ A web application for planning travel packages and creating image to promoting t
 
 ## Installation
 
-dsf
-
 #### Clone main repository or fork the project:
 
 1. Build and activate the virtual environment:
