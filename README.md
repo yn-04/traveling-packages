@@ -45,7 +45,7 @@ A web application for planning travel packages and creating image to promoting t
 Running on Streamlit Web Server:
 
 ```bash
-streamlit run ui/xxx.py
+streamlit run ui/ui.py
 
 ```
 
