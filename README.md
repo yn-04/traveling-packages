@@ -7,6 +7,26 @@ A web application for planning travel packages and creating image to promoting t
 ## Contributors
 
 <!-- readme: collaborators -start -->
+<table>
+	<tbody>
+		<tr>
+            <td align="center">
+                <a href="https://github.com/modpanyakorn">
+                    <img src="https://avatars.githubusercontent.com/u/68369082?v=4" width="100;" alt="modpanyakorn"/>
+                    <br />
+                    <sub><b>Panyakorn Timchanthuek</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/gittium">
+                    <img src="https://avatars.githubusercontent.com/u/157870955?v=4" width="100;" alt="gittium"/>
+                    <br />
+                    <sub><b>gittium</b></sub>
+                </a>
+            </td>
+		</tr>
+	<tbody>
+</table>
 <!-- readme: collaborators -end -->
 
 ## Installation
