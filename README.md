@@ -11,82 +11,61 @@ A web application for planning travel packages and creating image to promoting t
 	<tbody>
 		<tr>
             <td align="center">
-                <a href="https://github.com/akhilmhdh">
-                    <img src="https://avatars.githubusercontent.com/u/31166322?v=4" width="100;" alt="akhilmhdh"/>
+                <a href="https://github.com/modpanyakorn">
+                    <img src="https://avatars.githubusercontent.com/u/68369082?v=4" width="100;" alt="modpanyakorn"/>
                     <br />
-                    <sub><b>Akhil Mohan</b></sub>
+                    <sub><b>Panyakorn Timchanthuek</b></sub>
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/melroy89">
-                    <img src="https://avatars.githubusercontent.com/u/628926?v=4" width="100;" alt="melroy89"/>
+                <a href="https://github.com/bbtpm">
+                    <img src="https://avatars.githubusercontent.com/u/135986939?v=4" width="100;" alt="bbtpm"/>
                     <br />
-                    <sub><b>Melroy van den Berg</b></sub>
+                    <sub><b>bbtpm</b></sub>
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/MrChocolatine">
-                    <img src="https://avatars.githubusercontent.com/u/47531779?v=4" width="100;" alt="MrChocolatine"/>
+                <a href="https://github.com/gittium">
+                    <img src="https://avatars.githubusercontent.com/u/157870955?v=4" width="100;" alt="gittium"/>
                     <br />
-                    <sub><b>Max Z</b></sub>
+                    <sub><b>gittium</b></sub>
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/matks">
-                    <img src="https://avatars.githubusercontent.com/u/3830050?v=4" width="100;" alt="matks"/>
+                <a href="https://github.com/josh-faker191">
+                    <img src="https://avatars.githubusercontent.com/u/192134571?v=4" width="100;" alt="josh-faker191"/>
                     <br />
-                    <sub><b>Mathieu Ferment</b></sub>
+                    <sub><b>josh-faker191</b></sub>
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/athul">
-                    <img src="https://avatars.githubusercontent.com/u/40897573?v=4" width="100;" alt="athul"/>
+                <a href="https://github.com/yn-04">
+                    <img src="https://avatars.githubusercontent.com/u/186150397?v=4" width="100;" alt="yn-04"/>
                     <br />
-                    <sub><b>Athul Cyriac Ajay</b></sub>
+                    <sub><b>yn-04</b></sub>
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/dtcMLOps">
-                    <img src="https://avatars.githubusercontent.com/u/115469901?v=4" width="100;" alt="dtcMLOps"/>
+                <a href="https://github.com/panyakornt65">
+                    <img src="https://avatars.githubusercontent.com/u/155142889?v=4" width="100;" alt="panyakornt65"/>
                     <br />
-                    <sub><b>Daniel T</b></sub>
+                    <sub><b>panyakornt65</b></sub>
                 </a>
             </td>
 		</tr>
 		<tr>
             <td align="center">
-                <a href="https://github.com/jessebot">
-                    <img src="https://avatars.githubusercontent.com/u/2389292?v=4" width="100;" alt="jessebot"/>
+                <a href="https://github.com/JaoBen">
+                    <img src="https://avatars.githubusercontent.com/u/180035510?v=4" width="100;" alt="JaoBen"/>
                     <br />
-                    <sub><b>JesseBot</b></sub>
+                    <sub><b>JaoBen</b></sub>
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/kachick">
-                    <img src="https://avatars.githubusercontent.com/u/1180335?v=4" width="100;" alt="kachick"/>
+                <a href="https://github.com/rarossaa">
+                    <img src="https://avatars.githubusercontent.com/u/180069307?v=4" width="100;" alt="rarossaa"/>
                     <br />
-                    <sub><b>Kenichi Kamiya</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/naomi-lgbt">
-                    <img src="https://avatars.githubusercontent.com/u/63889819?v=4" width="100;" alt="naomi-lgbt"/>
-                    <br />
-                    <sub><b>Naomi Carrigan</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/KPCOFGS">
-                    <img src="https://avatars.githubusercontent.com/u/100217654?v=4" width="100;" alt="KPCOFGS"/>
-                    <br />
-                    <sub><b>Shi Sheng</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/shufo">
-                    <img src="https://avatars.githubusercontent.com/u/1641039?v=4" width="100;" alt="shufo"/>
-                    <br />
-                    <sub><b>Shuhei Hayashibara</b></sub>
+                    <sub><b>rossaa</b></sub>
                 </a>
             </td>
 		</tr>
