@@ -36,7 +36,7 @@ A web application for planning travel packages and creating image to promoting t
      - If limit is full you can create `Tokens` using `Write` type in `Access Tokens` page from the `Huggingface Platform` and replace them in code file. example below
 
        ```bash
-       InferenceClient("models-developers/models-names", token="hf_xxxxxx...")
+       InferenceClient("developers-name/models-name", token="hf_xxxxxx...")
 
        ```
 
