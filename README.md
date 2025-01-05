@@ -14,7 +14,7 @@ A web application for planning travel packages and creating image to promoting t
                 <a href="https://github.com/modpanyakorn">
                     <img src="https://avatars.githubusercontent.com/u/68369082?v=4" width="100;" alt="modpanyakorn"/>
                     <br />
-                    <sub><b>Panyakorn Timchanthuek</b></sub>
+                    <sub><b>modpanyakorn</b></sub>
                 </a>
             </td>
             <td align="center">
@@ -65,7 +65,7 @@ A web application for planning travel packages and creating image to promoting t
                 <a href="https://github.com/rarossaa">
                     <img src="https://avatars.githubusercontent.com/u/180069307?v=4" width="100;" alt="rarossaa"/>
                     <br />
-                    <sub><b>rossaa</b></sub>
+                    <sub><b>rarossaa</b></sub>
                 </a>
             </td>
 		</tr>
