@@ -72,7 +72,6 @@ A web application for planning travel packages and creating image to promoting t
 	<tbody>
 </table>
 <!-- readme: collaborators,contributors -end -->
->>>>>>> bca65a54d6798a21737074f808ea7ff56271687e
 
 ## Installation
 
