@@ -37,8 +37,6 @@ A web application for planning travel packages and creating image to promoting t
                     <sub><b>yn-04</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/JaoBen">
                     <img src="https://avatars.githubusercontent.com/u/180035510?v=4" width="100;" alt="JaoBen"/>
