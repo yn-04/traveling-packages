@@ -6,54 +6,8 @@ A web application for planning travel packages and creating image to promoting t
 
 ## Contributors
 
-<table>
-	<tbody>
-		<tr>
-            <td align="center">
-                <a href="https://github.com/modpanyakorn">
-                    <img src="https://avatars.githubusercontent.com/u/68369082?v=4" width="100;" alt="modpanyakorn"/>
-                    <br />
-                    <sub><b>Panyakorn Timchanthuek</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/gittium">
-                    <img src="https://avatars.githubusercontent.com/u/157870955?v=4" width="100;" alt="gittium"/>
-                    <br />
-                    <sub><b>gittium</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/bbtpm">
-                    <img src="https://avatars.githubusercontent.com/u/135986939?v=4" width="100;" alt="bbtpm"/>
-                    <br />
-                    <sub><b>bbtpm</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/yn-04">
-                    <img src="https://avatars.githubusercontent.com/u/186150397?v=4" width="100;" alt="yn-04"/>
-                    <br />
-                    <sub><b>yn-04</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/JaoBen">
-                    <img src="https://avatars.githubusercontent.com/u/180035510?v=4" width="100;" alt="JaoBen"/>
-                    <br />
-                    <sub><b>JaoBen</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/rarossaa">
-                    <img src="https://avatars.githubusercontent.com/u/180069307?v=4" width="100;" alt="rarossaa"/>
-                    <br />
-                    <sub><b>rossaa</b></sub>
-                </a>
-            </td>
-		</tr>
-	<tbody>
-</table>
+<!-- readme: <username1>,collaborators,<username2>,contributors,<username3>/- -start -->
+<!-- readme: <username1>,collaborators,<username3>,contributors,<username3>/- -end -->
 
 ## Installation
 
