@@ -11,8 +11,6 @@ A web application for planning travel packages and creating image to promoting t
 
 ## Contributors
 
-<<<<<<< HEAD
-
 <!-- readme: contributors -start -->
 
 # <!-- readme: contributors -end -->
