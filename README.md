@@ -4,7 +4,7 @@
 
 A web application for planning travel packages and creating image to promoting the province's landmark. This web application uses generative AI for creating travel packages (Text-to-Text) and image promoting (Text-to-Image).
 
-## Contributors
+## Collaborators
 
 <!-- readme: collaborators,contributors -start -->
 <table>
