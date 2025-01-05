@@ -6,8 +6,8 @@ A web application for planning travel packages and creating image to promoting t
 
 ## Contributors
 
-<!-- readme: <username1>,collaborators,<username2>,contributors,<username3>/- -start -->
-<!-- readme: <username1>,collaborators,<username3>,contributors,<username3>/- -end -->
+<!-- readme: collaborators,contributors -start -->
+<!-- readme: collaborators,contributors -end -->
 
 ## Installation
 
