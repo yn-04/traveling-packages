@@ -32,7 +32,7 @@ A web application for planning travel packages and creating image to promoting t
 
    Create an `.env` file in the same directory as the file using the OpenAI services for images generator and add `OPENAI_API_KEY=sk-xxxxxxxxxxxx...`
 
-4. Huggingface Inference Tokens:
+4. Huggingface Inference API:
 
    - In this project we add `free API Image Generator Model` from `Huggingface Inference API`access with our `Tokens`.
    - The `Tokens` working like `API keys`
@@ -41,7 +41,7 @@ A web application for planning travel packages and creating image to promoting t
      - If limit is full you can create `Tokens` using `Write` type in `Access Tokens` page from the `Huggingface Platform` and replace them in code file. example below
 
        ```bash
-       InferenceClient("models-developers/models-names", token="hf_xxxxxx...")
+       InferenceClient("developers-name/models-name", token="hf_xxxxxx...")
 
        ```
 
@@ -50,7 +50,7 @@ A web application for planning travel packages and creating image to promoting t
 Running on Streamlit Web Server:
 
 ```bash
-streamlit run ui/xxx.py
+streamlit run ui/ui.py
 
 ```
 
