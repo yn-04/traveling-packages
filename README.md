@@ -32,12 +32,28 @@ A web application for planning travel packages and creating image to promoting t
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/josh-faker191">
+                    <img src="https://avatars.githubusercontent.com/u/192134571?v=4" width="100;" alt="josh-faker191"/>
+                    <br />
+                    <sub><b>josh-faker191</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/yn-04">
                     <img src="https://avatars.githubusercontent.com/u/186150397?v=4" width="100;" alt="yn-04"/>
                     <br />
                     <sub><b>yn-04</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/panyakornt65">
+                    <img src="https://avatars.githubusercontent.com/u/155142889?v=4" width="100;" alt="panyakornt65"/>
+                    <br />
+                    <sub><b>panyakornt65</b></sub>
+                </a>
+            </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/JaoBen">
                     <img src="https://avatars.githubusercontent.com/u/180035510?v=4" width="100;" alt="JaoBen"/>
