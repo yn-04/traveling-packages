@@ -27,7 +27,7 @@ A web application for planning travel packages and creating image to promoting t
 
    Create an `.env` file in the same directory as the file using the OpenAI services for images generator and add `OPENAI_API_KEY=sk-xxxxxxxxxxxx...`
 
-4. Huggingface Inference Tokens:
+4. Huggingface Inference API:
 
    - In this project we add `free API Image Generator Model` from `Huggingface Inference API`access with our `Tokens`.
    - The `Tokens` working like `API keys`
