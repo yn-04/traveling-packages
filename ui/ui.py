@@ -46,7 +46,7 @@ st.markdown(
         border: 2px solid #ddd;
         padding: 20px;
         border-radius: 12px;
-        background-color: rgba(255, 255, 255, 0.75);
+        background-color: #e0e0e0;
         box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
         transition: all 0.3s ease-in-out;
     }}
@@ -107,7 +107,7 @@ with st.container():  # ใช้ container เป็นกล่องรอบ
         search = st.button("Search", key="search")
     st.markdown("</div>", unsafe_allow_html=True) 
 
-# === Process User Input ===
+# === Show Result with Image in Box ===
 if search:
     if not province or not days or not activity_type or not budget:
         st.error("กรุณาเลือกข้อมูลให้ครบทุกช่องก่อนเริ่มค้นหา!")
@@ -125,15 +125,24 @@ if search:
                     model="llama-3.1-70b-versatile",
                 )
 
-                # Show Result
+                # Placeholder image (Replace with dynamic images based on `province` if needed)
+                destination_image_url = "https://via.placeholder.com/800x400.png?text=Destination+Image"
+
+                # Show Result with Image in Box
                 st.subheader("✨ แผนการท่องเที่ยวที่แนะนำ:")
                 st.markdown(
-                    f"<div class='result-box'><div style='color: black;'>{chat_completion.choices[0].message.content}</div></div>",
+                    f"""
+                    <div class='result-box'>
+                        <img src='{destination_image_url}' alt='Destination Image' style='width:100%; border-radius:8px; margin-bottom:15px;'>
+                        <div style='color: black;'>{chat_completion.choices[0].message.content}</div>
+                    </div>
+                    """,
                     unsafe_allow_html=True,
                 )
 
             except Exception as e:
                 st.error(f"เกิดข้อผิด: {e}")
+
 
 # === Footer ===
 st.markdown(
