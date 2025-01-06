@@ -3,3 +3,4 @@ venv
 gen-images/.env
 gen-images/images/generated_image.png
 ui/.env
+ui/images/generated_image.png
